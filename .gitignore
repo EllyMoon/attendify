@@ -11,6 +11,13 @@ build/
 # Virtual environment
 /venv/
 /.venv/
+.env
+db.sqlite3
+
+# Ignore migrations
+**/migrations/*
+
+
 
 # Project specific
 /docs/

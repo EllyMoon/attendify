@@ -6,3 +6,5 @@ Markdown==3.7
 python-dotenv==1.0.1
 sqlparse==0.5.3
 tzdata==2024.2
+djangorestframework-simplejwt
+sendgrid==6.11.0
